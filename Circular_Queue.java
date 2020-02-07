@@ -1,4 +1,4 @@
-public class Main {
+public class Circular_Queue {
 
     static int[] arr =new int[5];
     private static int front=-1;
