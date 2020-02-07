@@ -9,11 +9,7 @@ public class Circular_Queue {
         insert(50);
         insert(140);
         insert(510);
-        insert(130);
-
-
         print();
-
         System.out.println("after deletion:");
         delete();
         print();
